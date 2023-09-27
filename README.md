@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Freelance<br>🌱 I’m currently learning Node.js<br>💬 Ask me about sky.gerger1@gmail.com<br>
-📝 I write articles on [https://semagerger.blogspot.com]([https://semagerger.blogspot.com](https://semagerger.blogspot.com/2023/09/semagerger.html))<br>
+📝 I write articles on [[https://semagerger.blogspot.com](https://semagerger.blogspot.com/2023/09/semagerger.html)]([https://semagerger.blogspot.com](https://semagerger.blogspot.com/2023/09/semagerger.html))<br>
 📫 How to reach me **sky.gerger1@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semoist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SemaGerger) 

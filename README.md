@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelance<br>🌱 I’m currently learning Node.js<br>💬 Ask me about sky.gerger1@gmail.com<br>
+🔭 I’m currently working on Freelance<br>
+🌱 I’m currently learning PHP<br>
+💬 Ask me about sky.gerger1@gmail.com<br>
 📝 I write articles on https://semagerger.blogspot.com <br>
 📫 How to reach me **sky.gerger1@gmail.com** <br>
 🌱 My Links https://semagerger.blogspot.com/2023/09/semagerger.html <br>
